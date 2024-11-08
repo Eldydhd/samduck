@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 * {padding:0; margin:0; box-sizing:border-box;}
+::=webkit-scrollbar {width:0; }
 html {scroll-behavior:smooth;}
 html,body {font:10pt/180% "나눔고딕","맑은 고딕","돋움";}
 
